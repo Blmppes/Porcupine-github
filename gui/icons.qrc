@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+ <qresource prefix="/gui">
+  <file>glass.png</file>
+  <file>wall.png</file>
+  <file>tick.png</file>
+ </qresource>
+</RCC>

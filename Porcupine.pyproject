@@ -1,0 +1,6 @@
+{
+    "files": [
+        "antivirus/antivirus.py",
+        "main.py"
+    ]
+}
